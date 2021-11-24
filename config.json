@@ -1,6 +1,6 @@
 {
 	"ip":"puepue2009.aternos.me",
-	"port": "30259",
-	"name": "alwaysonline",
+	"port": "25565",
+	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
